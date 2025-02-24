@@ -9,7 +9,7 @@ provided simple-to-use Python API to train Agents using reinforcement learning, 
 
 ## Releases, Documentation, and Getting Started!
 
-**To get see our quickstart guide click [here](Getting-Started.md).**
+**To get see our quickstart guide click [here](Documentation/docs/Getting-Started.md).**
 
 **You can also check out our new [web docs](https://unity-technologies.github.io/ml-agents/)!**
 
