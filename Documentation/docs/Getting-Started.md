@@ -45,12 +45,6 @@ interacts with.
 
 ![Unity Editor](images/mlagents-3DBallHierarchy.png)
 
-**Note:** In Unity, the base object of everything in a scene is the
-_GameObject_. The GameObject is essentially a container for everything else,
-including behaviors, graphics, physics, etc. To see the components that make up
-a GameObject, select the GameObject in the Scene window, and open the Inspector
-window. The Inspector shows every component on a GameObject.
-
 The first thing you may notice after opening the 3D Balance Ball scene is that
 it contains not one, but several agent cubes. Each agent cube in the scene is an
 independent agent, but they all share the same Behavior. 3D Balance Ball does
